@@ -125,8 +125,9 @@ dmypy.json
 # Project specific
 cache/
 pdf/
-config/
+config/pep-ebook.yaml
 *.jpg
 *.jpeg
 *.png
 *.pdf
+!config/*.example

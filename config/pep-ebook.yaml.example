@@ -1,0 +1,12 @@
+# PEP eBook 配置文件示例
+# Example configuration file for PEP eBook
+
+# 开启调试日志 (可选)
+# Enable debug logging (optional)
+debug: false
+
+# 保存的认证请求 (可选)
+# Saved authenticated curl request (optional)
+# 格式: 从浏览器开发者工具中复制的 curl 命令
+# Format: curl command copied from browser developer tools
+# authenticated_curl: "curl 'https://book.pep.com.cn/...' -H '...'"
